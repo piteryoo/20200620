@@ -17,4 +17,4 @@
 	out.println("현재 접속  시각: " + CT + "\n");
 %>
     </p>
-    </footer>
+    </footer> 
