@@ -3,6 +3,9 @@
 <head>
 <%@ page contentType="text/html; charset=utf-8"%>
 <%@ page import="java.util.Date"%>
+    <script>
+    window.open("popup/popup1.jsp", "popup",
+                "width=365, height = 250, left = 0, top=0") </script>
 
 
 <title>Welcome</title>
