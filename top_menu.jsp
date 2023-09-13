@@ -25,4 +25,4 @@
             <a class="navbar-brand" href="./index.jsp">고객센터</a>
 		</div>
 	</div>
-</nav>
+</nav> 
