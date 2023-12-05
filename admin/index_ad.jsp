@@ -3,10 +3,9 @@
 <head>
 <%@ page contentType="text/html; charset=utf-8"%>
 <%@ page import="java.util.Date"%>
-<script>
-    window.open("popup/popup1.jsp", "popup",
-                "width=365, height = 250, left = 0, top=0") </script>
-
+    <script>
+    window.open("../popup/popup1.jsp", "popup", "width=365, height = 250, left = 0, top=0")
+ </script>
 
 <title>Welcome</title>
     
@@ -19,10 +18,10 @@
 </head>
 
 <body>
-    <%@ include file="top_banner.jsp" %>
-    <%@ include file="top_menu.jsp" %>
-	<%@ include file="body_main.jsp" %>	
-    <%@ include file="footer.jsp" %> 
+    <%@ include file="top_banner_ad.jsp" %>
+    <%@ include file="top_menu_ad.jsp" %>
+	<%@ include file="body_main_ad.jsp" %>	
+    <%@ include file="footer_ad.jsp" %> 
     
 </body>
     
